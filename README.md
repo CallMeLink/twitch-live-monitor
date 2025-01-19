@@ -1,2 +1,4 @@
-# twitch-live-monitor
-Twitch live monitor is a CLI program made to tell you when your favorite streamer goes live
+<h1 align="center">📝 Requirements </h1>
+<p align="center">
+  <a href="https://www.python.org/downloads/">Python</a> •
+  <a href="https://www.python.org/downloads/">Pip</a> •
