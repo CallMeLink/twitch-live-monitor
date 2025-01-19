@@ -12,3 +12,5 @@
     ```
     $ python3 gettoken.py
     ```
+
+  If everything was done correctly you will recieve your `TWITCH_ACCESAS_TOKEN` make sure to save this.
