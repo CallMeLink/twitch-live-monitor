@@ -7,21 +7,22 @@
   <a href="https://dev.twitch.tv/">• Twitch API access</a>  
 
 ## 🛠️ Setting up 
-  After getting your `client_id` and `client_secret` you need to update you variables in the `gettoken.py` file and run the file using the following command below:
+  After obtaining your `client_id` and `client_secret`, update the variables in the `gettoken.py` file and run the script using the following command:
   
     $ python3 gettoken.py
     
-  If everything was done correctly you will recieve your `TWITCH_ACCESAS_TOKEN` make sure to save this.
+  If everything was set up correctly, you will receive your `TWITCH_ACCESS_TOKEN`. Make sure to save it.
 
 ## 🚀 Running
-  In the `twitchmonitor.py` update the following variable:
+  In the `twitchmonitor.py` file, update the following variables:
      
    `TWITCH_CLIENT_ID` = "your client id"  
    `TWITCH_ACCESS_TOKEN` = "your access token"  
    `CHANNEL_NAME` = "the channel you want to monitor"
 
-  Now with all the variables updated just run the the command above and enjoy the script:
+  Once all variables are updated, run the following command to start the script:
 
   ```
   $ python3 twitchmonitor.py
 ```
+  Enjoy the script!
