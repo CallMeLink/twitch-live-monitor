@@ -16,8 +16,8 @@
 ## 🚀 Running
   In the `twitchmonitor.py` update the following variable:
      
-   `TWITCH_CLIENT_ID` = "your client id"
-   `TWITCH_ACCESS_TOKEN` = "your access token"
+   `TWITCH_CLIENT_ID` = "your client id"  
+   `TWITCH_ACCESS_TOKEN` = "your access token"  
    `CHANNEL_NAME` = "the channel you want to monitor"
 
      
