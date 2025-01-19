@@ -20,4 +20,6 @@
    `TWITCH_ACCESS_TOKEN` = "your access token"  
    `CHANNEL_NAME` = "the channel you want to monitor"
 
-     
+  Now with all the variables updated just run the the command above and enjoy the script:
+
+  $ python3 twitchmonitor.py
