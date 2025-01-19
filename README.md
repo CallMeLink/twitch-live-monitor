@@ -9,6 +9,8 @@
 <h2>🛠️ Setting up </h2>
   After getting your >client_id and >client_secret you need to update you variables in the >gettoken.pyfile and run the file using the following command below:
   
+    ```
     $ python3 gettoken.py
-    
-  >teste  
+    ```
+
+`client_id` `client_secret` `gettoken.py`
