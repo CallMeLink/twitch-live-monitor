@@ -7,7 +7,7 @@ CHANNEL_NAME = "" #Streamer you want to monitor
 CHECK_INTERVAL = 600
 
 HEADERS = {
-    "Client-ID": TWICH_CLIENT_ID,
+    "Client-ID": TWITCH_CLIENT_ID,
     "Authorization": f"Bearer {TWITCH_ACCESAS_TOKEN}",
 }
 
