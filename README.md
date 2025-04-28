@@ -3,7 +3,7 @@
 
 <h2 >📝 Requirements </h2>
   <a href="https://www.python.org/downloads/">• Python</a><br/>
-  <a href="https://www.python.org/downloads/">• Pip</a><br/>
+  <a href="https://pypi.org/project/pip/">• Pip</a><br/>
   <a href="https://dev.twitch.tv/">• Twitch API access</a>  
 
 ## 🛠️ Setting up 
